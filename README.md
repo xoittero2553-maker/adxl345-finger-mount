@@ -35,7 +35,7 @@ This design follows **Design for Manufacturing (DFM)** principles — every feat
 |------|-----|------|
 | SLS Nylon PA12 bracket (bottom) | 1 | `ด้านล่าง.f3z` |
 | SLS Nylon PA12 bracket (top) | 1 | `ด้านบน.f3d` |
-| Brass heat insert M2 | 2 | Press-fit with soldering iron |
+| Brass heat insert M2 (OD 3.5 mm) | 2 | Press-fit with soldering iron |
 | M2 screw | 2 | For securing ADXL345 PCB |
 | Mellow Fly-ADXL345 | 1 | Accelerometer board |
 
